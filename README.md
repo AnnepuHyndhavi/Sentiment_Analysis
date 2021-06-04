@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnnepuHyndhavi
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 🌱 I’m currently an under graduate student Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me www.linkedin.com/in/annepu-hyndhavi-6a2156177
 
