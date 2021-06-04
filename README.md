@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnepuHyndhavi
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently an under graduate student of Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on linkedin
+- 👀 I’m interested in data science.
+- 🌱 I’m an under graduate student of Artificial Intelligence and Machine Learning.
+- 💞️ I’m looking to collaborate on linkedin.
 - 📫 How to reach me www.linkedin.com/in/annepu-hyndhavi-6a2156177
 
 
