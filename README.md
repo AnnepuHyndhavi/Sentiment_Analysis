@@ -11,7 +11,7 @@
 
 🌱 Currently learning **Django, Kafka**
 
-😇 I’m looking to collaborate on linkedin.
+😇 I’m looking for internships.
 
 📫 How to reach me **www.linkedin.com/in/annepu-hyndhavi-6a2156177**
 
