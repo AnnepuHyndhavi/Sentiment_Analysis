@@ -2,7 +2,7 @@
 
 - 🤓 I’m interested in data science.
 - 📚 I’m an under graduate student of Artificial Intelligence and Machine Learning.
-- 🌱 Currently learning Django
+- 🌱 Currently learning Django, Kafka
 - 😇 I’m looking to collaborate on linkedin.
 - 📫 How to reach me www.linkedin.com/in/annepu-hyndhavi-6a2156177
 
