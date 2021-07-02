@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AnnepuHyndhavi
+### Hey, I’m AnnepuHyndhavi👋
+
 - 👀 I’m interested in data science.
 - 🌱 I’m an under graduate student of Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on linkedin.
