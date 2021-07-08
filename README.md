@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Annepu Hyndhavi</h1>
 <h3 align="center">A passionate data scientist.</h3> 
  
-  <p align="right"> <img src= "https://image.flaticon.com/icons/png/512/1245/1245632.png" width=90">
+<p align="right"> <img src= "https://image.flaticon.com/icons/png/512/1245/1245632.png" width=90">
 
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annepuhyndhavi&label=Profile%20views&color=0e75b6&style=flat" alt="annepuhyndhavi" /> </p>
