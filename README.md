@@ -17,17 +17,17 @@
 
 
 
-🤓 I’m interested in data science.
+🤓  I’m interested in data science.
 
-📚 I’m an under graduate student of Artificial Intelligence and Machine Learning.
+📚  I’m an under graduate student of Artificial Intelligence and Machine Learning.
 
-🌱 Currently learning **Django, Kafka**
+🌱  Currently learning **Django, Kafka**
 
-😇 I’m looking for internships.
+😇  I’m looking for internships.
 
-📫 How to reach me **www.linkedin.com/in/annepu-hyndhavi-6a2156177**
+📫  How to reach me **www.linkedin.com/in/annepu-hyndhavi-6a2156177**
 
-✉️ Mail me at hyndhaviannepu2001@gmail.com
+✉️  Mail me at hyndhaviannepu2001@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
