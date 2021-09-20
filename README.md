@@ -16,7 +16,8 @@
 ![Annepu's GitHub stats](https://github-readme-stats.vercel.app/api?username=annepuhyndhavi&show_icons=true&theme=cobalt)
 
 
-
+<br>
+ <br>
 🤓  I’m interested in data science.
 
 📚  I’m an under graduate student of Artificial Intelligence and Machine Learning.
