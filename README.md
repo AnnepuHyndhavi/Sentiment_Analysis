@@ -25,14 +25,15 @@
 
  <br>
 📚  I’m an under graduate student of Artificial Intelligence and Machine Learning.
+ <br>
 
-🌱  Currently learning **Django, Kafka**
+🌱  Currently learning **Django, Kafka**<br>
 
-😇  I’m looking for internships.
+😇  I’m looking for internships.<br>
 
-📫  How to reach me **www.linkedin.com/in/annepu-hyndhavi-6a2156177**
+📫  How to reach me **www.linkedin.com/in/annepu-hyndhavi-6a2156177**<br>
 
-✉️  Mail me at hyndhaviannepu2001@gmail.com
+✉️  Mail me at hyndhaviannepu2001@gmail.com<br>
 
 
 <h3 align="left">Connect with me:</h3>
