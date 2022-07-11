@@ -54,4 +54,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annepuhyndhavi&&show_icons=true&theme=cobalt&title_color=combat"  alt="annepuhyndhavi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annepuhyndhavi&&show_icons=true&theme=dark&title_color=combat"  alt="annepuhyndhavi" /></p>
